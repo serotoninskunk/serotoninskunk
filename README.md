@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning how to answer the questions that keep me up at night with the tools I know already exist, specifically starting with git, gitHub, python, SQL, and whatever else comes up between me and fiddling with data. 
+- 🌱 I’m currently learning how to answer the questions that keep me up at night with the tools I know already exist, specifically   git, Python, SQL, and then anything else that comes up between me and fiddling with the data of my dreams. 
 - 👯 I’m looking to collaborate on finding discernable patterns in what materials and methods Purple Martins use in building their nests and if there's an effect on the survival of the young. 
 - 🤔 I’m looking for help with... uhm, honestly, I could just use some encouragement. I am faced with a complete change in how I live my life day to day, and it's not completely voluntary. I'm just trying to steer the ship, and I think that choosing what skills to give my time to developing is about the best I can do right now. Wading through and keeping my metaphorical knees high.
 - 💬 Ask me about birds. Or the FreeGardeners if you're really into that liminal space between confusion and inspiration.  

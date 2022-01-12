@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src = "https://github.com/serotoninskunk/serotoninskunk/blob/main/header.png" alt="banner that says SerotoninSkunk - official silly person, KSC">
 
 - 🌱 I’m currently learning how to answer the questions that keep me up at night with the tools I know already exist, specifically   git, Python, SQL, and then anything else that comes up between me and fiddling with the data of my dreams. 
